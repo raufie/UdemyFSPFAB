@@ -1,0 +1,32 @@
+[
+    {
+        "id": 0,
+        "name": "wdawfaw",
+        "description": "fa",
+        "isbn": "adwaw",
+        "page_count": 0,
+        "issued": true,
+        "author": "adwaw",
+        "year": 2
+    },
+    {
+        "id": 234,
+        "name": "sdfa",
+        "description": "sf",
+        "isbn": "asgas",
+        "page_count": 22,
+        "issued": false,
+        "author": "3asfasf",
+        "year": 23
+    },
+    {
+        "id": 235,
+        "name": "2wqe",
+        "description": "qwfag",
+        "isbn": "asd",
+        "page_count": 223,
+        "issued": false,
+        "author": "22d",
+        "year": 0
+    }
+]
